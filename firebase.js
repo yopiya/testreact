@@ -2,13 +2,12 @@ import { firebase } from '@firebase/app';
 import '@firebase/firestore';
 
 var firebaseConfig = {
-  apiKey: 'AIzaSyARydTUvZr7Iyd77XmOLwglU14IZ1DtGnM',
-  authDomain: 'lab8-daefe.firebaseapp.com',
-  projectId: 'lab8-daefe',
-  storageBucket: 'lab8-daefe.appspot.com',
-  messagingSenderId: '610615260707',
-  appId: '1:610615260707:web:02a18699c0b5c7306fa396',
-  measurementId: 'G-XLPXV16HZP',
+  apiKey: "AIzaSyDcksY5hgnEAKclyqTFYAR1Wi1feS_XJWw",
+  authDomain: "delta-wonder-359906.firebaseapp.com",
+  projectId: "delta-wonder-359906",
+  storageBucket: "delta-wonder-359906.appspot.com",
+  messagingSenderId: "325509910674",
+  appId: "1:325509910674:web:4bb1b8df6aebab03c9564b"
 };
 
 firebase.initializeApp(firebaseConfig);
